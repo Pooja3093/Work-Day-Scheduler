@@ -10,6 +10,8 @@ body {
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
+  padding-bottom: 1.5vh;
+  margin-bottom: 8.0vh;
 }
 
 .hour {
@@ -21,9 +23,16 @@ body {
   text-align: right;
 }
 
+.input-group-prepend{
+  flex-basis: 100px;
+	flex-grow: 0;
+	flex-shrink: 0;
+}
+
 .past {
   background-color: #d3d3d3;
   color: black;
+  border-color: #ffffff;
 }
 
 .present {
