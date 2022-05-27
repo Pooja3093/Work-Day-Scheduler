@@ -9,7 +9,7 @@ This application was designed using HTML, CSS, Javascript and THird Party API's.
 
 [GitHub Repository](https://github.com/Pooja3093/Work-Day-Scheduler.git)
 
-[Deployed Application]()
+[Deployed Application](https://pooja3093.github.io/Work-Day-Scheduler/)
 
 [Full Demo Video](https://drive.google.com/file/d/1dzpRVwsrqGKzYGbsEeF1vPsXi-kgwDrx/view)
 
